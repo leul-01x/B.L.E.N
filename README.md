@@ -3,9 +3,9 @@
 A smart navigation system made with Arduino IDE and Arduino code.
 Developed in collaboration as an assiting navigation system.
 
-## Demo video and presentation(Dropbox):
+## Demo video and presentation(Youtube, Dropbox):
   https://www.dropbox.com/scl/fo/47hjinq29dq8gnbj71m0w/AGHPGoaExpxYfweCOpm9m4I?rlkey=vsv5xqju2xgcd9a9ptrkhy0dn&st=mhmpg3n4&dl=0
-
+  https://www.youtube.com/watch?v=QyWfUgdmKAc
 ## What I learned:
   - Intermediate arduino code, circuit design
   - Designing more complex circuits
